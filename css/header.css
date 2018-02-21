@@ -3,6 +3,9 @@
   color: white;
   padding: 5px 10px 15px 10px;
   font-size: 12px;
+  position: fixed;
+  width: 100%;
+  top: 0;
 }
 
 .top-header .header__top,
