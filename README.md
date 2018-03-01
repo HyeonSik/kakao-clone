@@ -2,9 +2,9 @@
 
 ### Kakao Desktop App Clone
 
-[Class from Nomad Academy](https://academy.nomadcoders.co/)
+Class from [Nomad Academy](https://academy.nomadcoders.co/)
 
-
+## [WEB LINK](https://hyeonsik.github.io/kakao-clone/)
 
 ## Screenshots
 
