@@ -4,7 +4,7 @@
 
 Class from [Nomad Academy](https://academy.nomadcoders.co/)
 
-## [WEB LINK](https://hyeonsik.github.io/kakao-clone/)
+## [WEB LINK](https://hyunsikshin.github.io/kakao-clone/)
 
 ## Screenshots
 
